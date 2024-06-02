@@ -15,6 +15,6 @@ Features:
 
 Contributions are welcome! Fork the repository and submit pull requests for enhancements or bug fixes.
 
-Project Link: https://github.com/tanyaa05/amazon-signup-page
+Project Link: https://github.com/tanyaaa05/AmazonSignupPage
 
 
