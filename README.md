@@ -12,3 +12,9 @@ Features:
 -->Responsive design
 
 -->Clean and modern UI
+
+Contributions are welcome! Fork the repository and submit pull requests for enhancements or bug fixes.
+
+Project Link: https://github.com/tanya005/amazon-signup-page
+
+
